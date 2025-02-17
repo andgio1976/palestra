@@ -1,1 +1,38 @@
-
+[
+  {
+    "nome": "Yoga",
+    "descrizione": "Corso di yoga per migliorare la flessibilità e ridurre lo stress.",
+    "durata": "1 ora",
+    "prezzo": 15
+  },
+  {
+    "nome": "Pilates",
+    "descrizione": "Corso di pilates per tonificare il corpo e migliorare la postura.",
+    "durata": "1 ora",
+    "prezzo": 18
+  },
+  {
+    "nome": "Zumba",
+    "descrizione": "Lezione di danza aerobica per divertirsi e bruciare calorie.",
+    "durata": "1 ora",
+    "prezzo": 12
+  },
+  {
+    "nome": "Crossfit",
+    "descrizione": "Corso ad alta intensità per migliorare la forza e la resistenza.",
+    "durata": "45 minuti",
+    "prezzo": 20
+  },
+  {
+    "nome": "Spinning",
+    "descrizione": "Lezione di ciclismo indoor per aumentare la resistenza cardiovascolare.",
+    "durata": "45 minuti",
+    "prezzo": 12
+  },
+  {
+    "nome": "Boxe",
+    "descrizione": "Corso di boxe per migliorare la resistenza e la coordinazione.",
+    "durata": "1 ora",
+    "prezzo": 25
+  }
+]
